@@ -4,7 +4,7 @@ Implementation of Following Machine Learning Algorithms using SckitLearn
 2. K Means
 3. Naive Bayes  (Gaussian NB, Bernoulli NB, Multinomial NB)
 
-All these Algorithms are applied on Sample Datasets attached above. 
+All these Algorithms are applied on Sample Datasets attached above. K Means Algorithm is implemented using Regularization (Lasso, Ridge, Elastic Net)
 
 Implementaion of each Model Includes:
 
@@ -16,4 +16,4 @@ Implementaion of each Model Includes:
 5. Compare Accuracy (F1 Score and Mean Squared Error if needed)
 
 
-<strong>Libraries Used:<strong> 
+<strong>Libraries Used:<strong> Scikit Learn, Matplotlib, Seaborn, Numpy, Pandas
