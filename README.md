@@ -1,5 +1,5 @@
 # Machine_Learning_Algorithms
-Implementation of Following Machine Learning Algorithms
+Implementation of Following Machine Learning Algorithms using SckitLearn
 1. Logistic Regression
 2. K Means
 3. Naive Bayes  (Gaussian NB, Bernoulli NB, Multinomial NB)
@@ -14,3 +14,6 @@ Implementaion of each Model Includes:
 4. Splitting the Dataset
 4. Model Training
 5. Compare Accuracy (F1 Score and Mean Squared Error if needed)
+
+
+<strong>Libraries Used:<strong> 
